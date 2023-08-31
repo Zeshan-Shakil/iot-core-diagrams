@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T12:49:19.513Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5SRyToaDddXOpkQrOCXZ" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T12:50:00.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vnlbTo3Ar1WwKZKw6ruu" version="21.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1967" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1200" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -34,7 +34,7 @@
         <mxCell id="5psWpfcNrxwhDoLEpRGU-124" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="5psWpfcNrxwhDoLEpRGU-133" source="5psWpfcNrxwhDoLEpRGU-125" target="5psWpfcNrxwhDoLEpRGU-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5psWpfcNrxwhDoLEpRGU-134" value="Receive Data From Sensor" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5psWpfcNrxwhDoLEpRGU-134" value="Receive Data From Wirepas-sensor" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-820" y="-1100" width="1350" height="832" as="geometry" />
         </mxCell>
         <mxCell id="5psWpfcNrxwhDoLEpRGU-163" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5psWpfcNrxwhDoLEpRGU-134" source="5psWpfcNrxwhDoLEpRGU-54" target="5psWpfcNrxwhDoLEpRGU-160">
